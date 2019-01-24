@@ -42,7 +42,7 @@
 		5A25AE1821F90092002A3546 = {
 			isa = PBXGroup;
 			children = (
-				5A25AE2321F90092002A3546 /* СhaoPay */,
+				5A25AE2321F90092002A3546 /* BeaconMonitor */,
 				5A25AE2221F90092002A3546 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5A25AE2321F90092002A3546 /* СhaoPay */ = {
+		5A25AE2321F90092002A3546 /* BeaconMonitor */ = {
 			isa = PBXGroup;
 			children = (
 				5A25AE3D21F906F3002A3546 /* App */,
@@ -66,7 +66,7 @@
 				5A25AE2D21F90093002A3546 /* LaunchScreen.storyboard */,
 				5A25AE3021F90093002A3546 /* Info.plist */,
 			);
-			path = "СhaoPay";
+			path = BeaconMonitor;
 			sourceTree = "<group>";
 		};
 		5A25AE3621F90396002A3546 /* Beacon */ = {
