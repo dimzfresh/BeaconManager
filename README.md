@@ -1,0 +1,3 @@
+# BeaconManager
+Simple iBeacon monitor
+
